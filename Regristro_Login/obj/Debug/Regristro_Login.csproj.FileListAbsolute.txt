@@ -1,0 +1,30 @@
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\bin\Debug\Regristro_Login.exe.config
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\bin\Debug\Regristro_Login.exe
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\bin\Debug\Regristro_Login.pdb
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.csproj.AssemblyReference.cache
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.Form1.resources
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.InicioSesion.resources
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.Properties.Resources.resources
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.RegistroUsuario.resources
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.csproj.GenerateResource.cache
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.exe
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.pdb
+C:\Users\jose\source\repos\Regristro_Login\Regristro_Login\obj\Debug\Regristro_Login.csproj.CopyComplete
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\bin\Debug\Regristro_Login.exe.config
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\bin\Debug\Regristro_Login.exe
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\bin\Debug\Regristro_Login.pdb
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.csproj.AssemblyReference.cache
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.Form1.resources
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.InicioSesion.resources
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.Properties.Resources.resources
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.RegistroUsuario.resources
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.csproj.GenerateResource.cache
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.csproj.CoreCompileInputs.cache
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.csproj.CopyComplete
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.exe
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\obj\Debug\Regristro_Login.pdb
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\bin\Debug\System.Data.SQLite.dll
+C:\Users\57302\Documents\Tareas Visual\Regristro_Login\bin\Debug\System.Data.SQLite.xml
